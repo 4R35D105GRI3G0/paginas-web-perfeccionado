@@ -1,0 +1,22 @@
+
+body{
+    background-color: hsl(60, 82%, 66%);
+}
+h1{
+    color: rgb(11, 42, 180);
+}
+h2{
+    color: #a90404;
+}
+li{
+    color: blue;
+}
+td{
+    color: rgb(55, 12, 134);
+}
+img
+{
+   border-radius: 40px;
+    width: 400px;
+    height: 600px;
+}
